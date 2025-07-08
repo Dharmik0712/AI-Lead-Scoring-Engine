@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+xgboost
+pandas
+numpy
+scikit-learn
+joblib
+redis
+python-dotenv
+httpx
+sentence-transformers
